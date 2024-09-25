@@ -1,0 +1,2 @@
+# Recipes
+for Odin project
