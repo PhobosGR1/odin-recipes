@@ -1,7 +1,31 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
 }
 
 .menu {
-    back
+    
+    width: 600px;
+    margin:auto;
+    text-align: center;
+    /* border: 1px solid black; */
+}
+
+.title {
+    padding: 10px;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    /* border: 1px solid black; */
+}
+
+.list-of-recipes{
+    padding: 0px  150px;
+    /* border: 1px solid black; */
+}
+
+.recipe {
+    border: 1px solid lightgray;
+    margin: 10px 0px;
+    padding: 10px;
 }
